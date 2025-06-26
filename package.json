@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7bb7bcaa16e5eed0b28f0452570cba64431602e4
 {
   "name": "casa-tamplarului-rustic",
   "version": "1.0.0",
@@ -9,6 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "lucide-react": "^0.297.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -19,5 +23,18 @@
     "postcss": "^8.4.24",
     "tailwindcss": "^3.4.1",
     "vite": "^5.0.10"
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.284.0",
+    "react-icons": "^4.12.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "tailwindcss": "^3.3.2",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.13",
+    "vite": "^5.0.0"
+>>>>>>> 7bb7bcaa16e5eed0b28f0452570cba64431602e4
   }
 }
